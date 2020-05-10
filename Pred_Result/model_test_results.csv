@@ -1,0 +1,2 @@
+model_Test_loss,model_Test_acc,rocauc_score,AveragePrecision_score,best_model_Test_loss,best_model_Test_acc
+0.0,0.0,0.9430745379800362,0.930812104304765,0.794320277183987,0.9000171497170296
