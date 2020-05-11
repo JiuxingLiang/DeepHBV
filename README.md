@@ -10,7 +10,6 @@ DeepHBV framework model contains input layer, 1st convolution1D layer, 1st max p
 Dependency:
 Keras library 2.2.4. 
 scikit-learn 0.22. 
-The current implementation of DeepHBV was based in part on the source code of DeepHPV (https://github.com/JiuxingLiang/DeepHPV) and reference to DeepHINT (https://github.com/nonnerdling/DeepHINT).
 
 If you have any questions, please contact me.
 
