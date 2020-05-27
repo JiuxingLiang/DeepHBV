@@ -1,5 +1,5 @@
 # DeepHBV
-DeepHBV was designed for detection of HBV virus in DNA integration by deep learning.
+DeepHBV was designed for detection of HBV virus in DNA integration by deep learning. The data provided here is for the model of DeepHBV with HBV integration sequences + TCGA Pan Cancer.
 
 Run ‘Data_Process.py’ to get one-hot encoding test data and labels.
 Run ‘DeepHBV_Test.py’ to detect DNA sequence of HBV virus.
