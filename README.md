@@ -13,4 +13,4 @@ scikit-learn 0.22.
 
 If you have any questions, please contact me.
 
-Email: liangjiuxing@m.scnu.edu.cn
+
